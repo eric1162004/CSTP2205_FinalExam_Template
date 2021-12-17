@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "186597769594",
+    "project_id": "androidtestingapp-88539",
+    "storage_bucket": "androidtestingapp-88539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186597769594:android:9c082288bd31abc5fa16c3",
+        "android_client_info": {
+          "package_name": "com.example.mock1exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186597769594-019574s55fauics0ltpk9f922unhd5km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPouX_ZFQOmROxNuRyr--PI92dfEEAalk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186597769594-019574s55fauics0ltpk9f922unhd5km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186597769594:android:6013fdd8026108a5fa16c3",
+        "android_client_info": {
+          "package_name": "com.example.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186597769594-29mol3ho6g2djbjq3fgi1imgj6mh6vgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testing",
+            "certificate_hash": "70ebc4a95df17b0766ab44806fa9a5622a1567dc"
+          }
+        },
+        {
+          "client_id": "186597769594-019574s55fauics0ltpk9f922unhd5km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPouX_ZFQOmROxNuRyr--PI92dfEEAalk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186597769594-019574s55fauics0ltpk9f922unhd5km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
