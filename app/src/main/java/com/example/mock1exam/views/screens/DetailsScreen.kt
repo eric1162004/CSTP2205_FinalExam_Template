@@ -156,20 +156,20 @@ private fun DetailsScreenContent(id: String) {
                             VerticalSpacer(Dm.marginExtraLarge)
 
                             // adopt button
-                            Row(
-                                verticalAlignment = Alignment.CenterVertically,
-                                horizontalArrangement = Arrangement.End,
-                                modifier = Modifier.fillMaxWidth(),
-                            ) {
-                                AppButton(
-                                    label = "buy",
-                                    buttonColor = MaterialTheme.colors.secondary,
-                                    fontColor = Color.White,
-                                    modifier = Modifier.width(Dm.buttonWidthDefault)
-                                ) {
-                                    // on adopt pressed
-                                }
-                            }
+//                            Row(
+//                                verticalAlignment = Alignment.CenterVertically,
+//                                horizontalArrangement = Arrangement.End,
+//                                modifier = Modifier.fillMaxWidth(),
+//                            ) {
+//                                AppButton(
+//                                    label = "buy",
+//                                    buttonColor = MaterialTheme.colors.secondary,
+//                                    fontColor = Color.White,
+//                                    modifier = Modifier.width(Dm.buttonWidthDefault)
+//                                ) {
+//                                    // on adopt pressed
+//                                }
+//                            }
                         }
                     }
                 }
